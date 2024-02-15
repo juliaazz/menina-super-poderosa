@@ -1,2 +1,2 @@
-# menina-super-poderosa
+# meninas-super-poderosas
 .
