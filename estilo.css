@@ -12,4 +12,5 @@ body{
 .cabecalho{
        display: flex;
        background-color: #F60063;
+       align-items: center;
 }
