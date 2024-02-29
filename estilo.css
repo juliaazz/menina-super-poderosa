@@ -14,4 +14,5 @@ body{
        background-color: #F60063;
        align-items: center;
        font-size: 40px;
+       justify-content: space-around;
 }
