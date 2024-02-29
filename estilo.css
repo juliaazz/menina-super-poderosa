@@ -10,5 +10,6 @@ body{
 }
 
 .cabecalho{
+       display: flex;
        background-color: #F60063;
 }
