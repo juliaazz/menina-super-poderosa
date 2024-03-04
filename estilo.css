@@ -22,3 +22,9 @@ body{
 .cabecalho-imagem{
      width:20% ;
 }
+
+.lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
