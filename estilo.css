@@ -35,5 +35,5 @@ body{
 .secao1{
     display: flex;
     background: #F60063;
-    background-color: linear-gradient (#FFA9CD);
+    background-color: linear-gradient(#FFA9CD);
 }
