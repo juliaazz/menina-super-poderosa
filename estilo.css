@@ -6,7 +6,7 @@
 body{
     
    
-    color: #F60063;
+    color: #ffffff;
 }
 
 .cabecalho{
@@ -34,5 +34,6 @@ body{
 }
 .secao1{
     display: flex;
+    background: #F60063;
     background-color: linear-gradient (#FFA9CD);
 }
