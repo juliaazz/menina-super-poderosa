@@ -32,3 +32,6 @@ body{
 .cabecalho-lista{
     margin-right: 150px;
 }
+.secao1{
+    display: flex;
+}
