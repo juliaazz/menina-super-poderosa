@@ -60,4 +60,7 @@ display: grid;
 grid-template-columns: 25% 25% 25% 25%;
 
 }
-
+.secao2-todos-personagens img {
+    height: 270px;
+    width: 150;
+}
