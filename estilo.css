@@ -55,5 +55,9 @@ body{
 
 }
      
-
+.secao2-todos-personagens {
+display: grid;
+/* grid-template-columns: 15%;15% 15%;15%
+ */
+}
 
